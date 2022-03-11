@@ -9,21 +9,20 @@
   <td>
     {name}
   </td>
-  <td >
+  <td>
     <img src={image} alt="This is me" />
   </td>
-
-  <td >
+  <td>
     {music}
   </td>
-  <td >
+  <td>
     {hacker}
   </td>
 </tr>
 
 <style>
- td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
 </style>

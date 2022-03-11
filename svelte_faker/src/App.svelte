@@ -1,11 +1,10 @@
 <script>
-    import PeopleTable from "./components/peopleTable.svelte";
+  import PeopleTable from "./components/peopleTable.svelte";
 </script>
 
 <main>
-<PeopleTable/>
+  <PeopleTable />
 </main>
 
 <style>
-
 </style>

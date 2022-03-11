@@ -16,7 +16,7 @@
 </script>
 
 <table>
-    <TableHead col1="Name" col2="Image" col3="music" col4="Quote" />
+  <TableHead col1="Name" col2="Image" col3="music" col4="Quote" />
   {#each people as person}
     <TableRow
       name={person.name}
