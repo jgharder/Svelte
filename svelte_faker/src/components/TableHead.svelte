@@ -1,20 +1,20 @@
 <script>
-  
+  export let col1;
+  export let col2;
+  export let col3;
+  export let col4;
 </script>
 
 <tr>  
   <th class="tablehead">
-  Name:
+{col1}  </th>
+  <th class="tablehead">
+    {col2}
   </th>
   <th class="tablehead">
-  Picture:
-  </th>
+{col3}  </th>
   <th class="tablehead">
-    My favorite music:
-  </th>
-  <th class="tablehead">
-    My quote:
-
+{col4}
   </th>
 </tr>
 
