@@ -6,17 +6,17 @@
 </script>
 
 <tr>
-  <td class="tablerow name">
+  <td>
     {name}
   </td>
-  <td class="tablerow avatar">
+  <td >
     <img src={image} alt="This is me" />
   </td>
 
-  <td class="tablerow music">
+  <td >
     {music}
   </td>
-  <td class="tablerow hacker">
+  <td >
     {hacker}
   </td>
 </tr>

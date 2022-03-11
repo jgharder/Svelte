@@ -6,14 +6,14 @@
 </script>
 
 <tr>  
-  <th class="tablehead">
+  <th>
 {col1}  </th>
-  <th class="tablehead">
+  <th>
     {col2}
   </th>
-  <th class="tablehead">
+  <th >
 {col3}  </th>
-  <th class="tablehead">
+  <th>
 {col4}
   </th>
 </tr>

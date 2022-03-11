@@ -5,7 +5,7 @@
 
   const people = [];
 
-  for (let i = 0; i < 100; i++) {
+  for (let i = 0; i < 1000; i++) {
     people.push({
       name: faker.name.findName(),
       image: faker.image.avatar(),
